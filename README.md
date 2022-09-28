@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codrone
-- 👀 I’m interested in MERN stack
+- 👀 I’m use a lot of Ionic
 - 🌱 I’m currently learning Angularjs
 - 💞️ I’m looking to collaborate on Web App projects
 - 📫 How to reach me mpalaronald4@gmail.com
