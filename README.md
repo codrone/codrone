@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @codrone
-- 👀 I’m use a lot of Ionic
-- 🌱 I’m currently learning Angularjs
+- 👀 I use a lot of Ionic
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Web App projects
-- 📫 How to reach me mpalaronald4@gmail.com
+- 💞️ I love hybrid applications
+- 📫 You can email me mpalaronald4@gmail.com
 
 <!---
 codrone/codrone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
